@@ -7,4 +7,8 @@
     <string name="tq">Tough Questions</string>
     <string name="seeother">See our Other Apps</string>
     <string name="rateapp">Rate App</string>
+    <string name="tv_xx">XX/</string>
+    <string name="tv_yy">YY</string>
+
+
 </resources>

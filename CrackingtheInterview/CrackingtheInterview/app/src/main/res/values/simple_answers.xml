@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ans">
+        <item>
+            Android is a mobile OS.
+        </item>
+        <item>
+            Defense of Ancients.
+        </item>
+
+    </string-array>
+
+</resources>
